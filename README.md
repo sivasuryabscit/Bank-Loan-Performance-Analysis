@@ -1,5 +1,9 @@
 # Bank-Loan-Performance-Analysis
 Bank Loan Performance Analysis using Power  BI
+
+## Power BI File
+You can download the Power BI file from [this link](https://drive.google.com/file/d/1_aGf0aShF6vR91BisE-FGKzTPm1zWiXm/view?usp=sharing).
+
 ## Problem Statement:
 In today's data-driven world, understanding how borrower details and loan
 characteristics impact loan performance is very important for banking institutions. This
