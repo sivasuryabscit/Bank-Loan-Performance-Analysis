@@ -1,4 +1,4 @@
-# Bank Loan Performance Analysis Project Showcase
+# Bank Loan Performance Analysis Project Using Power BI
 
 ## Project Overview
 
